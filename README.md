@@ -4,7 +4,7 @@ A lightweight, responsive student productivity dashboard published with GitHub P
 
 ## Publish
 1. In repository Settings → Pages, set the source to **GitHub Actions**.
-2. The workflow in `.github/workflows/deploy.yml` deploys the site on every push to `main`.
+2. The workflow in `.github/workflows/deploy.yml` deploys the site on every push to `main`. After changing Pages settings, a new push may be needed to start the first deployment.
 3. The site URL is `https://tz8b4wb8s8-web.github.io/Discipline-OS/`.
 
 ## Features
